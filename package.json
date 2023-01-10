@@ -5,5 +5,8 @@
   "private": true,
   "scripts": {
     "search": "node main"
+  },
+  "dependencies": {
+    "axios": "^1.2.2"
   }
 }
